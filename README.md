@@ -14,7 +14,7 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofeciendo una experienc
 + **GOOGLE icons** Para uso de laiconografia del sitio.
 
 ### Vista previa de proyecto
-----Pendiente----
+![Demo](imagenes/Pinterest_Screenshot.png)
 
 Este es mi primer proyecto Frontend realizado en el Bootcamp de TecnoLochicas 2024
 
